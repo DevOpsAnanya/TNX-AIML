@@ -1,6 +1,6 @@
 # Track A — Python Basics: Week 1 Worksheet
 
-**Name:** _______________________Ananya Singh__________________  **GitHub handle:** _____________https://github.com/DevOpsAnanya_________________
+**Name:** _______________________Ananya Singh_________________  **GitHub handle:** _____________https://github.com/DevOpsAnanya_________________
 **Track:** Track A (Python Basics)  **Week:** 1  **Dates:** Sun 4 Oct 2026 -> Mon 12 Oct 2026
 
 > **Instructions:** Fill in the cells only. Labels are already written for you. Great answers are
@@ -8,7 +8,7 @@
 
 | Day | Date | Topics completed | Time spent (min) | Evidence (link or snippet) | Confidence (1-5) |
 |---|---|---|---|---|---|
-| Sunday | Sun 4 Oct | Install Python, pick editor, first program |  |  |  |
+| Sunday | Sun 4 Oct | Install Python, pick editor, first program | 0 min |  | 1 |
 | Monday | Mon 5 Oct | Print, input, variables, built-in types |  |  |  |
 | Tuesday | Tue 6 Oct | Operators, comparison, strings |  |  |  |
 | Wednesday | Wed 7 Oct | Conditionals (if/elif/else, truthiness) |  |  |  |
