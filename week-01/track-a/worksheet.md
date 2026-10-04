@@ -1,6 +1,6 @@
 # Track A — Python Basics: Week 1 Worksheet
 
-**Name:** _________________________________________  **GitHub handle:** ______________________________
+**Name:** _______________________Ananya Singh__________________  **GitHub handle:** _____________https://github.com/DevOpsAnanya_________________
 **Track:** Track A (Python Basics)  **Week:** 1  **Dates:** Sun 4 Oct 2026 -> Mon 12 Oct 2026
 
 > **Instructions:** Fill in the cells only. Labels are already written for you. Great answers are
